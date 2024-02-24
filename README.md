@@ -4,6 +4,6 @@ if you want to run this file then run it in nodejs environment as it requires se
 
 run below 2 commands please make sure you are in right directory
 
-npm install 
-node hk.js
+npm install       and         node hk.js
+
 
